@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RP2040-Zero")(type "KiCad")(uri "${KIPRJMOD}/Component-Library/RP2040-Zero/RP2040-Zero.kicad_sym")(options "")(descr ""))
+  (lib (name "Pololu_G2_24v21")(type "KiCad")(uri "${KIPRJMOD}/Component-Library/Pololu_G2_24v21/Pololu_G2_24v21.kicad_sym")(options "")(descr ""))
+  (lib (name "XT60-M")(type "KiCad")(uri "${KIPRJMOD}/Component-Library/XT60-M/XT60-M.kicad_sym")(options "")(descr ""))
+)
